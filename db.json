@@ -1,35 +1,3 @@
 {
-  "todo": [
-    {
-      "title": "KH",
-      "status": false,
-      "id": 1670475682942
-    }
-  ],
-  "user": [
-    {
-      "Username": "eve.holt@reqres.in",
-      "Avatar": "https://i.pravatar.cc/300",
-      "FullName": "Ahsan beg",
-      "Email": "eve.holt@reqres.in",
-      "Password": "cityslicka",
-      "id": 1
-    },
-    {
-      "Username": "ahsanbeg",
-      "Avatar": "https://i.pravatar.cc/300",
-      "FullName": "aman",
-      "Email": "eve.holt@reqres.in",
-      "Password": "cityslicka",
-      "id": 2
-    },
-    {
-      "Username": "ahsanbeg",
-      "Avatar": "https://i.pravatar.cc/300",
-      "FullName": "eve.holt@reqres.in",
-      "Email": "eve.holt@reqres.in",
-      "Password": "cityslicka",
-      "id": 3
-    }
-  ]
+  "users":[]
 }
